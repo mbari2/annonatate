@@ -1,0 +1,35 @@
+---
+canvas: "https://mbari2.github.io/annonatate/img/derivatives/iiif/SundayonLaGrandeJatte/canvas/SundayonLaGrandeJatte-1"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Animal #4",
+            "purpose": "tagging",
+            "creator": {
+                "id": "mbari2",
+                "name": "mbari2"
+            },
+            "created": "2023-02-17T16:28:08.453Z",
+            "modified": "2023-02-17T16:28:10.423Z"
+        }
+    ],
+    "target": {
+        "source": "https://mbari2.github.io/annonatate/img/derivatives/iiif/SundayonLaGrandeJatte/canvas/SundayonLaGrandeJatte-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1279.70849609375,428.6922302246094,132.0487060546875,121.90524291992188"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mbari2.github.io/annonatate/img/derivatives/iiif/SundayonLaGrandeJatte/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "02d20b71-e20b-41a0-8017-ed88f9ac3d0e.json",
+    "motivation": "commenting"
+}
