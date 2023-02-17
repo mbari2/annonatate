@@ -1,0 +1,35 @@
+---
+canvas: "https://mbari2.github.io/annonatate/img/derivatives/iiif/ViewofShibaCoast/canvas/ViewofShibaCoast-1"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Group #2",
+            "purpose": "tagging",
+            "creator": {
+                "id": "mbari2",
+                "name": "mbari2"
+            },
+            "created": "2023-02-17T16:30:53.006Z",
+            "modified": "2023-02-17T16:30:55.221Z"
+        }
+    ],
+    "target": {
+        "source": "https://mbari2.github.io/annonatate/img/derivatives/iiif/ViewofShibaCoast/canvas/ViewofShibaCoast-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=126.04676818847656,192.5994873046875,117.45149230957031,88.96408081054688"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mbari2.github.io/annonatate/img/derivatives/iiif/ViewofShibaCoast/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8ddbb92f-a63e-4e75-98c6-0f21f2455e69.json",
+    "motivation": "commenting"
+}
