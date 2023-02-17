@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "A Sunday on La Grande Jatte",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://mbari2.github.io/annonatate/annotations/mbari2-github-io-sundayonlagrandejatte-1-list.json'></iiif-storyboard>",
+            "title": "Animals",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
