@@ -1,0 +1,35 @@
+---
+canvas: "https://mbari2.github.io/annonatate/img/derivatives/iiif/ViewofShibaCoast/canvas/ViewofShibaCoast-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Bird #1",
+            "purpose": "tagging",
+            "creator": {
+                "id": "mbari2",
+                "name": "mbari2"
+            },
+            "created": "2023-02-17T16:29:51.335Z",
+            "modified": "2023-02-17T16:29:53.465Z"
+        }
+    ],
+    "target": {
+        "source": "https://mbari2.github.io/annonatate/img/derivatives/iiif/ViewofShibaCoast/canvas/ViewofShibaCoast-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=154.71383666992188,631.4860229492188,132.12567138671875,87.33673095703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mbari2.github.io/annonatate/img/derivatives/iiif/ViewofShibaCoast/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fcababcf-ce27-489d-98b9-73cdbcdeb894.json",
+    "motivation": "commenting"
+}
